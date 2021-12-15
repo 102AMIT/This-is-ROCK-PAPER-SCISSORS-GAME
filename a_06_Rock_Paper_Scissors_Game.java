@@ -28,7 +28,6 @@ public class a_06_Rock_Paper_Scissors_Game {
         {
             System.out.println("Sorry! Computer Win");
         }
-        //System.out.println("Computer choice"+computerInput);
         if(computerInput==0)
         {
             System.out.println("Computer Choise ROCK");
